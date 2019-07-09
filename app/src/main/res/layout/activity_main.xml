@@ -85,8 +85,10 @@
             app:layout_anchorGravity="bottom|center_horizontal"
             android:elevation="4dp">
 
-        <ImageView android:layout_width="match_parent" android:layout_height="match_parent"
-        android:src="@mipmap/ic_launcher"
+        <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@mipmap/ic_launcher"
         />
 
     </RelativeLayout>
